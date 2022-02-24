@@ -14,7 +14,7 @@
   <img align="center" alt="Acess" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Acess" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Acess" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Acess" height="120" style="border-radius:50px;" src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
+  <img align="right" alt="Acess" height="120" style="border-radius:50px;" src="https://31.media.tumblr.com/197c5f7837edb4f814d408351fe9c9ae/tumblr_mjv3nbV8r81qe89guo1_500.gif">
 </div>
     
   ##
