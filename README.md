@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando JavaScript e Devops!
 - 😄 Pronomes: Ele/Dele
 
-<div align="center">
+<div>
   <a href="https://github.com/AcessDnd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AcessDnd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcessDnd&layout=compact&langs_count=7&theme=dracula"/>
