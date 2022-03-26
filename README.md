@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo João Pedro!
 
 - 🔭 Atualmente estou aprimorando meu conhecimento para que possa trabalhar!
-- 🌱 Atualmente estou estudando JavaScript e Devops!
+- 🌱 Atualmente estou estudando JavaScript
 - 😄 Pronomes: Ele/Dele
 
 <div align='center'>
